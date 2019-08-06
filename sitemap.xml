@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bpio.org/hexo-admin-ehc-images.json</loc>
+    
+    <lastmod>2019-07-30T06:46:40.744Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bpio.org/2019/07/26/chrome-browser-download.html</loc>
     
     <lastmod>2019-07-26T15:07:00.000Z</lastmod>
